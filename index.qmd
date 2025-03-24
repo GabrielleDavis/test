@@ -1,0 +1,30 @@
+---
+about:
+  template: jolla
+  id: about-block
+  image: "img/my_image.jpg"
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/gxd2024/
+    - icon: envelope
+      text: Email
+      href: "mailto:gxd218@case.edu"  
+---
+
+::: {#about-block}
+:::
+
+# Welcome to my website!
+
+Greetings! 
+
+Hello! My name is Gabrielle Davis, and I am currently a post-baccalaureate student at Case Western Reserve University (CWRU). During my time here, I've been dedicated to researching the association between type 2 diabetes and cancer. After I got my bachelors of science in Biology from Penn State University (PSU), I knew that I wanted to pursue bio-medical related research. I was fortunate enough to discover this area of research when I rotated in Dr.Schumachers lab. As of right now, we are looking at the effects of standard and newer treatments and how they reduce the risk of the cancer in someone diagnosed with T2D. Head over to my projects page to learn more! 
+
+My research journey has been filled with many areas of research. My freshman year I tested the pH saliva and how glucose has an impact on it. Then I joined a research team where I had the ability to annotate photos, and it was compiled into an AI information system. And the information was used to help farmers in third world countries battle pest diseases and high temperatures! Then I had the summer research oppuruntunity to through the McNair Scholars program to research spotted lanternflies! This experience was life-changing, I learned so much about research as a whole, and the dedication graduate students put into their PhD. Although this experience was fun, I realized entomology wasn't my preferred research area. Head over to my projects page to learn more! 
+
+Outside of being a scholar, I am a sister, daughter, and granddaughter. Family is a huge part of my life. My mom, sister, and grandma have always taught me to remain humble and treat others as I would want to be treated. I am first-generation student, and I am biracial. I am Pureto Rican, Native American, and Black. One of my favorite things is being apart of such a blended family. Coming from such a diverse background allows me to bring a unique perspective to my academic and professional work life. 
+
+
+Please feel free to [contact me](mailto:gxd218@case.edu) if you have any questions!! 
+
